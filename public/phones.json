@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "name": "iPhone 16 Pro Max",
+    "model": "iPhone 16 Pro Max",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/apple-iphone-16-pro-max/-728x314/gsmarena_002.jpg",
+    "price": { "256GB": "$915", "512GB": "$1,099.99" },
+    "description": "Top-tier iPhone with luxury build, class-leading video, and reliable battery life.",
+    "storage": ["256GB 8GB RAM", "512GB 8GB RAM"],
+    "camera_info": "Four cameras including LiDAR; exceptional video and solid photo performance."
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "name": "Galaxy S25 Ultra",
+    "model": "S25 Ultra",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-ultra/-728x314/gsmarena_002.jpg",
+    "price": { "256GB": "$965", "512GB": "$1,090" },
+    "description": "Premium Android with S Pen, bright display, and strong all-round performance.",
+    "storage": ["256GB 12GB RAM", "512GB 12GB RAM"],
+    "camera_info": "Versatile system, better than many rivals but low-light photos lag behind."
+  },
+  {
+    "id": 3,
+    "brand": "Honor",
+    "name": "Magic V3",
+    "model": "Magic V3",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/honor-magic-v3/-728x314/gsmarena_000.jpg",
+    "price": { "256GB": "$1,630", "512GB": "$1,590" },
+    "description": "Thinnest foldable with bright displays, durability, and premium experience.",
+    "storage": ["256GB 12GB RAM", "512GB 12GB RAM"],
+    "camera_info": "Great main camera; ultrawide and telephoto are hit-or-miss."
+  },
+  {
+    "id": 4,
+    "brand": "Xiaomi",
+    "name": "14 Ultra",
+    "model": "14 Ultra",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-14-ultra/-728x314/gsmarena_002.jpg",
+    "price": { "512GB": "$1,027" },
+    "description": "Premium camera-focused phone with excellent Dolby display and fast charging.",
+    "storage": ["512GB 16GB RAM"],
+    "camera_info": "Top-notch cameras with best-in-class video; average selfie performance."
+  },
+  {
+    "id": 5,
+    "brand": "Honor",
+    "name": "Magic7 Pro",
+    "model": "Magic7 Pro",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-magic7-pro/-728x314/gsmarena_001.jpg",
+    "price": { "512GB": "$910.80", "1TB": "$1,010.88" },
+    "description": "IP69 design, flagship display, fast charging, and solid camera system.",
+    "storage": ["512GB 12GB RAM", "1TB 16GB RAM"],
+    "camera_info": "Superb selfies; telephoto camera has limited dynamic range."
+  },
+  {
+    "id": 6,
+    "brand": "Oppo",
+    "name": "Find N5",
+    "model": "Find N5",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-find-n5/-728x314/gsmarena_027.jpg",
+    "price": { "256GB": "N/A", "512GB": "N/A" },
+    "description": "Thin and elegant foldable with vibrant screens and great battery life.",
+    "storage": ["256GB 12GB RAM", "512GB 12GB RAM"],
+    "camera_info": "Main camera shines; ultrawide needs improvement."
+  },
+  {
+    "id": 7,
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold6",
+    "model": "Z Fold6",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-z-fold6/-728x314/gsmarena_001.jpg",
+    "price": { "256GB": "$1,799" },
+    "description": "Refined foldable with better cameras, battery, and performance over its predecessor.",
+    "storage": ["256GB 12GB RAM"],
+    "camera_info": "Better camera tuning than Z Fold5; versatile but not class-leading."
+  },
+  {
+    "id": 8,
+    "brand": "OnePlus",
+    "name": "OnePlus 13",
+    "model": "13",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-13/rev07/-728x314/gsmarena_001.jpg",
+    "price": { "256GB": "$799" },
+    "description": "Fast charging, high refresh display, and good battery in a sleek design.",
+    "storage": ["256GB 12GB RAM"],
+    "camera_info": "Good overall; excellent portraits, but night shots trail competition."
+  },
+  {
+    "id": 9,
+    "brand": "Google",
+    "name": "Pixel 9 Pro",
+    "model": "Pixel 9 Pro",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/google-pixel-9-pro/-728x314/gsmarena_001.jpg",
+    "price": { "128GB": "$999" },
+    "description": "Clean Android experience with AI-powered features and reliable cameras.",
+    "storage": ["128GB 12GB RAM"],
+    "camera_info": "Great stills, especially portraits; video not as strong."
+  },
+  {
+    "id": 10,
+    "brand": "Realme",
+    "name": "GT5 Pro",
+    "model": "GT5 Pro",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/oppo-find-x8-pro/-728x314/gsmarena_001.jpg",
+    "price": { "256GB": "$499" },
+    "description": "Affordable flagship killer with Snapdragon 8 Gen 3 and fast charging.",
+    "storage": ["256GB 12GB RAM"],
+    "camera_info": "Impressive for the price; good main camera, okay telephoto."
+  },
+  {
+    "id": 11,
+    "brand": "Vivo",
+    "name": "X100 Pro",
+    "model": "X100 Pro",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/google-pixel-9-pro-xl/-728x314/gsmarena_001.jpg",
+    "price": { "256GB": "$799" },
+    "description": "Zeiss optics and outstanding night photography define this sleek phone.",
+    "storage": ["256GB 12GB RAM"],
+    "camera_info": "One of the best for low-light and portrait shots."
+  },
+
+  {
+    "id": 12,
+    "brand": "Motorola",
+    "name": "Edge 50 Ultra",
+    "model": "Edge 50 Ultra",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/24/motorola-edge-50-ultra/-728x314/gsmarena_002.jpg",
+    "price": { "512GB": "$849" },
+    "description": "Beautiful design, clean software, and competitive cameras for the price.",
+    "storage": ["512GB 12GB RAM"],
+    "camera_info": "Solid imaging across all sensors; night mode a bit soft."
+  }
+]
